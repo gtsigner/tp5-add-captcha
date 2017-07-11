@@ -13,7 +13,6 @@
  *复杂点的验证码
  */
 namespace oeynet\addCaptcha;
-
 use think\Session;
 
 class CaptchaHelper
