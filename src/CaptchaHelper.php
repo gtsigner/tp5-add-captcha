@@ -9,6 +9,9 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
+/*
+ *复杂点的验证码
+ */
 namespace oeynet\addCaptcha;
 
 use think\Session;
