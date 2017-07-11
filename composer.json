@@ -1,0 +1,19 @@
+{
+  "name": "oeynet/think-captcha",
+  "description": "加法验证码 package for thinkphp5",
+  "authors": [
+    {
+      "name": "zhaojunlike",
+      "email": "zhaojunlike@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "oeynet\\addCaptcha\\": "src/"
+    },
+    "files": [
+    ]
+  }
+}
